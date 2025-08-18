@@ -4,5 +4,6 @@
 
 - vue
     - [发布订阅（观察者模式）](./src/vue/dep.js) 
+    - [computed](./src/vue/computed.js) 
 - [Reflect 规范操作 Object](./src/reflect.js)
 - [Promise](./src/promise.js)
